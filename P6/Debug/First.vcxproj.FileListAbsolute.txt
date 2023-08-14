@@ -1,0 +1,2 @@
+C:\MJB\CS575\First\Debug\First.exe
+C:\MJB\CS575\First\Debug\First.pdb
